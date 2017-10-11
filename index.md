@@ -24,7 +24,7 @@
 
 <hr>
 <h3>Links and Images</h3>
-<p>First I'm going to link to <a href="http://www.dailymail.co.uk/home/index.html">my website</a>
+<p>First I'm going to link to <a href="http://www.dailymail.co.uk/home/index.html">my website</a></p>
   
 
 ### Jekyll Themes
