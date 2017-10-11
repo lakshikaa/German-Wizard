@@ -26,7 +26,7 @@
 <h3>Links and Images</h3>
 <p>First I'm going to link to <a href="http://www.dailymail.co.uk/home/index.html">my website</a></p>
   
-  <img src="https://pixabay.com/p-1348777/?no_redirect" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Terrestrial_globe.svg/1054px-Terrestrial_globe.svg.png" />
 
 ### Jekyll Themes
 
