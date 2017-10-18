@@ -64,7 +64,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>table</td>
-    <td>le table</td>
+    <td>la table</td>
     <td>der Tisch</td>
   </tr>
   
