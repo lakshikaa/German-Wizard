@@ -20,7 +20,13 @@
   </ul>
   
   <hr>
-  
+  <ul class="breadcrumb">
+  <li><a href="#">Home</a></li>
+  <li><a href="#">Pictures</a></li>
+  <li><a href="#">Summer 15</a></li>
+  <li>Italy</li>
+</ul>
+
   <h3>Text styles</h3>
   <p>In this paragraph I am going to <u>underline this </u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh No!</em> he cried. </p>
 
