@@ -1,16 +1,13 @@
-
+<ul class="breadcrumb">
+  <li>Home</li>
+</ul>
 
 <h1>Language learning with Me</h1>
 <h2>Section One: What you can learn here.</h2>
 <p>This is the first paragraph. It isn't very interesting at the moment.</p>
 
 
-<ul class="breadcrumb">
-  <li><a href="index.md">Home</a></li>
-  <li><a href="page2.md">Pictures</a></li>
-  <li><a href="page3.md">Summer 15</a></li>
-  <li>Italy</li>
-</ul>
+
   
 <hr>
 <h2>Some HTML Formatting stuff</h2>
