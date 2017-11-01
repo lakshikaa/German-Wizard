@@ -1,8 +1,8 @@
 <hr>
   <ul class="breadcrumb">
-  <li><a href="#">Home</a></li>
-  <li><a href="#">Pictures</a></li>
-  <li><a href="#">Summer 15</a></li>
+  <li><a href="index.md">Home</a></li>
+  <li><a href="page2.md">Pictures</a></li>
+  <li><a href="page3.md">Summer 15</a></li>
   <li>Italy</li>
 </ul>
 
