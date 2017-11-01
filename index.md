@@ -6,7 +6,7 @@
 <h2>Section One: What you can learn here.</h2>
 <p>This is the first paragraph. It isn't very interesting at the moment.</p>
 <p>
-  <img src="img/eagle.jpg" />
+  <img src="img/eagle.jpg" style="width:50%;" />
 
 
   
