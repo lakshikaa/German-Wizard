@@ -1,5 +1,4 @@
-
-  <ul class="breadcrumb">
+<ul class="breadcrumb">
   <li><a href="index.md">Home</a></li>
   <li><a href="page2.md">Pictures</a></li>
   <li><a href="page3.md">Summer 15</a></li>
