@@ -1,4 +1,4 @@
-<hr>
+
   <ul class="breadcrumb">
   <li><a href="index.md">Home</a></li>
   <li><a href="page2.md">Pictures</a></li>
