@@ -15,7 +15,7 @@
 <p>Watch the video and then complete the task below.</p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qExjZ8kXfuQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qExjZ8kXfuQ?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <p>Drag and drop the word on the left hand side to the boxes on the right hand side, provided below the matching picture.</p>
 
