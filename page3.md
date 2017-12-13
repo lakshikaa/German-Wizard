@@ -19,4 +19,4 @@
  
 </p>
 
-<div style="clear both;"></div>
+<div style="clear:both;"></div>
