@@ -4,6 +4,8 @@
   <li><a href="page2.html">Page 2</a></li>
   <li><a href="page3.html">Page 3</a></li>
   <li>Page 4</li>
+  <li><a href="page5.html">Page 5</a></li>
+  <li><a href="page6.html">Page 6</a></li>
 </ul>
 
 <h1> Das Wetter - The Weather</h1>
