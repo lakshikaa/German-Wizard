@@ -1,6 +1,6 @@
 <ul class="breadcrumb">
   <li>Home</li>
-  <li><a href="familyandpets.html">Page 2</a></li>
+  <li><a href="familyandpets.html">Family and pets</a></li>
   <li><a href="page3.html">Page 3</a></li>
   <li><a href="page4.html">Page 4</a></li>
   <li><a href="page5.html">Page 5</a></li>
