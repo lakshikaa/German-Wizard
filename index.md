@@ -7,9 +7,9 @@
    <li><a href="clothes.html">Clothes</a></li>
 </ul>
 
-<h1>Introudction</h1>
-<h2>Welcome to Taggo where you can learn German from scratch.</h2>
-<p> Please scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics.</p>
+<h1>Introduction</h1>
+<h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
+<p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
 <p>
   <img src="img/eagle.jpg" style="width:50%;" />
 
