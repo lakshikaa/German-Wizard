@@ -3,9 +3,9 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="familyandpets.html">Family and pets</a></li>
   <li>Hobbies</li>
-   <li><a href="page4.html">Page 4</a></li>
-   <li><a href="page5.html">Page 5</a></li>
-   <li><a href="page6.html">Page 6</a></li>
+   <li><a href="foodanddrinks.html">Food and Drinks</a></li>
+   <li><a href="countriesandweather.html">Countries and Weather</a></li>
+   <li><a href="clothes.html">Clothes</a></li>
 </ul>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1ysIbfpsZQgRdqydrwhqe6DhrUtY8-Gse" width="640" height="480"></iframe>
