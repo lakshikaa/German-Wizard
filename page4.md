@@ -2,7 +2,7 @@
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
   <li><a href="familyandpets.html">Family and pets</a></li>
-  <li><a href="page3.html">Page 3</a></li>
+  <li><a href="hobbies.html">Hobbies</a></li>
   <li>Page 4</li>
   <li><a href="page5.html">Page 5</a></li>
   <li><a href="page6.html">Page 6</a></li>
