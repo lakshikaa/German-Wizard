@@ -2,9 +2,10 @@
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
   <li><a href="familyandpets.html">Family and pets</a></li>
-    <li><a href="page3.html">Page 3</a></li>
-    <li><a href="page4.html">Page 4</a></li>
-  <li>Page 5</li>
+    <li><a href="hobbies.html">Hobbies</a></li>
+    <li><a href="foodanddrinks.html">Food and drinks</a></li>
+  <li>Countries and Weather</li>
+  <li><a href="clothes.html">Clothes</a></li>
 </ul>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1ysIbfpsZQgRdqydrwhqe6DhrUtY8-Gse" width="640" height="480"></iframe>
