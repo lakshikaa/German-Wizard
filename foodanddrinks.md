@@ -1,6 +1,6 @@
 
 <ul class="breadcrumb">
-  <li><a href="index.html">Home</a></li>
+  <li><a href="home.html">Home</a></li>
   <li><a href="familyandpets.html">Family and pets</a></li>
   <li><a href="hobbies.html">Hobbies</a></li>
   <li>Food and Drinks</li>
