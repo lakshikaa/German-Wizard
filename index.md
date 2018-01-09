@@ -7,9 +7,9 @@
    <li><a href="clothes.html">Clothes</a></li>
 </ul>
 
-<h1>Language learning with Me</h1>
-<h2>Section One: What you can learn here.</h2>
-<p>This is the first paragraph. It isn't very interesting at the moment.</p>
+<h1>Introudction</h1>
+<h2>Welcome to Taggo where you can learn German from scratch.</h2>
+<p> Please scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics.</p>
 <p>
   <img src="img/eagle.jpg" style="width:50%;" />
 
