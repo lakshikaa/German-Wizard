@@ -1,11 +1,4 @@
-<ul class="breadcrumb">
-  <li>Home</li>
-  <li><a href="familyandpets.html">Family and pets</a></li>
-  <li><a href="hobbies.html">Hobbies</a></li>
-  <li><a href="foodanddrinks.html">Food and drinks</a></li>
-  <li><a href="countriesandweather.html">Countries and Weather</a></li>
-   <li><a href="clothes.html">Clothes</a></li>
-</ul>
+
 
 <h1>Introduction</h1>
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
@@ -99,7 +92,14 @@ tr:nth-child(even) {
 
 <div style="clear:both;"></div>
 
-
+<ul class="breadcrumb">
+  <li>Home</li>
+  <li><a href="familyandpets.html">Family and pets</a></li>
+  <li><a href="hobbies.html">Hobbies</a></li>
+  <li><a href="foodanddrinks.html">Food and drinks</a></li>
+  <li><a href="countriesandweather.html">Countries and Weather</a></li>
+   <li><a href="clothes.html">Clothes</a></li>
+</ul>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lakshikaa/learn-HTML-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
