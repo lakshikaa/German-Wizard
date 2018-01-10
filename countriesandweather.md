@@ -16,9 +16,9 @@
 <iframe width="854" height="480" src="https://www.youtube.com/embed/XDY0RLPJ5WA" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 <p>
-<a style="float:left;" href="page2.html">Back to Videos</a>
+<a style="float:left;" href="foodanddrinks.html">Back to Food and Drinkss</a>
                                       
-<a style="float:right;" href="page4.html"> Continue to Listening Task</a>
+<a style="float:right;" href="clothes.html"> Continue to Clothes</a>
  
 </p>
 
