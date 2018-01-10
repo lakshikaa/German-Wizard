@@ -8,8 +8,7 @@
   <li><a href="clothes.html">Clothes</a></li>
 </ul>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ysIbfpsZQgRdqydrwhqe6DhrUtY8-Gse" width="640" height="480"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7pOkEx4kW8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h1> Das Wetter - The Weather</h1>
 
