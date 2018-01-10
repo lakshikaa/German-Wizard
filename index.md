@@ -91,7 +91,13 @@ tr:nth-child(even) {
 </html>
 
 
+<p>
+                                      
+<a style="float:right;" href="familyandpets.html"> Continue to Family and Pets</a>
+ 
+</p>
 
+<div style="clear:both;"></div>
 
 
 ### Jekyll Themes
