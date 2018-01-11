@@ -4,7 +4,7 @@
 <p>
 <a style="float:left;" href="hobbies.html">Back to Hobbies</a>
                                       
-<a style="float:right;" href="countriesandweather.html"> Continue to Countries and Weather</a>
+<a style="float:right;" href="countries.html"> Continue to Countries and Weather</a>
  
 </p>
 
