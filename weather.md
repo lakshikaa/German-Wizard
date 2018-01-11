@@ -34,8 +34,8 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="familyandpets.html">Family and pets</a></li>
     <li><a href="hobbies.html">Hobbies</a></li>
-    <li><a href="foodanddrinks.html">Food and drinks</a></li>
-  <li>Countries and Weather</li>
+    <li><a href="countries.html">Countries</a></li>
+  <li>Weather</li>
   <li><a href="clothes.html">Clothes</a></li>
 </ul>
 
