@@ -21,7 +21,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="familyandpets.html">Family and pets</a></li>
   <li><a href="hobbies.html">Hobbies</a></li>
-  <li>Countries</li>
+  <li>Places</li>
   <li><a href="weather.html"> Weather</a></li>
   <li><a href="clothes.html">Clothes</a></li>
 </ul>
