@@ -22,7 +22,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="familyandpets.html">Family and pets</a></li>
   <li>Hobbies</li>
-   <li><a href="foodanddrinks.html">Food and Drinks</a></li>
-   <li><a href="countriesandweather.html">Countries and Weather</a></li>
+   <li><a href="countries.html">Countries</a></li>
+   <li><a href="weather.html">Weather</a></li>
    <li><a href="clothes.html">Clothes</a></li>
 </ul>
