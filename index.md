@@ -90,8 +90,8 @@ tr:nth-child(even) {
   <li>Home</li>
   <li><a href="familyandpets.html">Family and pets</a></li>
   <li><a href="hobbies.html">Hobbies</a></li>
-  <li><a href="foodanddrinks.html">Food and drinks</a></li>
-  <li><a href="countriesandweather.html">Countries and Weather</a></li>
+  <li><a href="countries.html">Countries</a></li>
+  <li><a href="weather.html">Weather</a></li>
    <li><a href="clothes.html">Clothes</a></li>
 </ul>
 ### Jekyll Themes
