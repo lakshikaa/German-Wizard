@@ -18,7 +18,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="familyandpets.html">Family and Pets</a></li>
   <li><a href="hobbies.html">Hobbies</a></li>
-  <li><a href="foodanddrinks.html">Food and drinks</a></li>
-  <li><a href="countriesandweather.html">Countries and weather</a></li>
+  <li><a href="countries.html">Countries</a></li>
+  <li><a href="weather.html">Weather</a></li>
   <li>clothes</li>
 </ul>
