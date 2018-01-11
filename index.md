@@ -4,7 +4,7 @@
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
 <p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
 <p>
-  <img src="img/german flag.png" style="width:50%;" />
+  <img src="img/german flag.png" style="width:65%;" />
 <iframe width="800" height="450" src="https://www.powtoon.com/embed/dRaHYDAVM3Q/" frameborder="0"></iframe>
   <iframe src="https://archive.org/embed/gruessung" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <hr>
