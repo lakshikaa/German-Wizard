@@ -1,5 +1,5 @@
 
-<h1> Das Wetter - The Weather</h1>
+<h1>Das Wetter</h1>
 
 
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
@@ -19,7 +19,7 @@
 
 
 <p>
-<a style="float:left;" href="countries.html">Places</a>
+<a style="float:left;" href="countries.html">Go back to Places</a>
                                       
 <a style="float:right;" href="clothes.html"> Continue to Clothes</a>
  
