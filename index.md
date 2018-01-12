@@ -80,7 +80,7 @@ tr:nth-child(even) {
 
 <p>
                                       
-<a style="float:right;" href="familyandpets.html"> Continue to Family and Pets</a>
+<a style="float:right;" href="family.html"> Continue to Family</a>
  
 </p>
 
