@@ -3,7 +3,8 @@
 
 <img src="img/Screen Shot 2018-01-12 at 10.45.56.png" style="width:65%;" />
 
-<iframe width="800" height="450" src="https://www.powtoon.com/embed/dvJ3yNBKGay/" frameborder="0"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeUiq1YdxXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h2> Here you will be able to learn some vocabulary and sentences in relation to cothes.</h2>
 <p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
