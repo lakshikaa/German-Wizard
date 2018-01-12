@@ -10,7 +10,7 @@
 
 
 <p>
-<a style="float:left;" href="Weather.html">Back to Weather</a>
+<a style="float:left;" href="weather.html">Back to Weather</a>
                                       
 <a style="float:right;" href="index.html"> Go back to home page</a>
  
