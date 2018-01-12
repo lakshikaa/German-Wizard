@@ -20,7 +20,7 @@
 
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li>Family and Pets</li>
+  <li>Family</li>
   <li><a href="hobbies.html">Hobbies</a></li>
   <li><a href="countries.html">Places</a></li>
   <li><a href="weather.html">Weather</a></li>
