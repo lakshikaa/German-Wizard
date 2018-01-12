@@ -28,12 +28,12 @@
  <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
   </ol>
 
-<h4>Wieviel Uhr ist es?- What time is it?</h4>
+</p> <h4>Wieviel Uhr ist es?- What time is it?</h4>
 <ol>
-  <li>Es ist <u><u> Uhr.- It is <u><u> Uhr</li>
+  <li>Es ist .... Uhr.- It is .... o'clock.</li>
  <li>Es ist rund <u>3<u> Uhr. - It is around <u>3<u> o'clock.</li>
   </ol>
-  
+  </p>
 <h4>Numbers</h4>
 <ul>
   <li>Eins- One</li>
