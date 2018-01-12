@@ -5,9 +5,7 @@
 <p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
 <p>
 
-<p>Listening Exercise<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lur-SGl3uw8?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://h5p.org/h5p/embed/136138" width="909" height="1292" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/npzGh2GorGQ?rel=0&amp;start=25" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>
 <a style="float:left;" href="index.html">Back to Home page</a>
