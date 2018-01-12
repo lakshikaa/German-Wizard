@@ -1,3 +1,9 @@
+
+<h1>Hobbys- Hobbies</h1>
+<h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
+<p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
+<p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/egA4_bN0GUA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/XDY0RLPJ5WA" frameborder="0" gesture="media" allowfullscreen></iframe>
