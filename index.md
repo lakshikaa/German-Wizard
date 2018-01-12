@@ -129,9 +129,10 @@ tr:nth-child(even) {
   <p>In this paragraph I am going to <u>underline this </u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh No!</em> he cried. </p>
 
 <hr>
-<h3>Links and Images</h3>
+<h3>Other useful links.</h3>
 <p>If you want to learn about the foundations of german and its grammar, then please have a look at the following link. Here you will find how to construct sentences with the basic grammar rules needed in the german language. <a href="https://www.deutsch-lernen.com/learn-german-online/beginners/lesson_1.php">my website</a></p>
-  
+
+ <a href="http://www.bbc.co.uk/languages/german/talk/">my website</a></p>
 
 <p>
                                       
