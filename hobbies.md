@@ -12,7 +12,7 @@
 <p>
 <a style="float:left;" href="family.html">Back to Family</a>
                                       
-<a style="float:right;" href="countries.html">Places</a>
+<a style="float:right;" href="countries.html">Continue to Places</a>
  
 </p>
 
