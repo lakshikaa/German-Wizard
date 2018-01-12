@@ -20,12 +20,33 @@
   <li>item2</li>
   </ol>
 
-<h4>Unordered lists have bullets</h4>
+<h4>Numbers</h4>
 <ul>
-  <li>Item1</li>
-  <li>Item 2</li>
-  </ul>
+  <li>Eins- One</li>
+  <li>Zwei- Two</li>
+  <li>Drei-Three</li>
+  <li>Vier- Four</li>
+  <li>Fünf- Five</li>
+  <li>Sechs- Six</li>
+  <li>Sieben- Seven</li>
+  <li>Acht-Eight</li>
+  <li>Neun- Nine</li>
+  <li>Zehn- Ten</li>
+  <li>Elf- Eleven</li>
+  <li>Zwölf- Twelve</li>
+  <li>Dreizehn-Thirteen</li>
+  <li>Vierzehn- Fourteen</li>
+  <li>Fünfzehn- Fifteen</li>
+  <li>Sechszehn- Sixteen</li>
+  <li>Siebzehn- Seventeen</li>
+  <li>Achtzehn-Eighteen</li>
+  <li>Neunzehn- Nineteen</li>
+  <li>Zwanzig- Twenty</li>
+    </ul>
+    
   
+  <p> Complete the following image sequncing acitivity where you have to put the german words for numbers in order starting from the lowest.</p>
+  <iframe src="https://h5p.org/h5p/embed/168034" width="1090" height="751" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
   <h3>Text styles</h3>
   <p>In this paragraph I am going to <u>underline this </u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh No!</em> he cried. </p>
@@ -60,7 +81,7 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th>Company</th>
+    <th>Guten Tag</th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
