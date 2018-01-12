@@ -26,7 +26,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="family.html">Family</a></li>
   <li><a href="hobbies.html">Hobbies</a></li>
-  <li><a href="countries.html">Places</a></li>
+  <li><a href="countries.html">Countries</a></li>
   <li><a href="weather.html">Weather</a></li>
   <li>Clothes</li>
 </ul>
