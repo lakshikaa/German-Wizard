@@ -10,7 +10,7 @@
 
 
 <p>
-<a style="float:left;" href="countriesandweather.html">Back to Countries and Weather</a>
+<a style="float:left;" href="Weather.html">Back to Weather</a>
                                       
 <a style="float:right;" href="index.html"> Go back to home page</a>
  
@@ -20,7 +20,7 @@
 
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="familyandpets.html">Family and Pets</a></li>
+  <li><a href="familyandpets.html">Family</a></li>
   <li><a href="hobbies.html">Hobbies</a></li>
   <li><a href="countries.html">Places</a></li>
   <li><a href="weather.html">Weather</a></li>
