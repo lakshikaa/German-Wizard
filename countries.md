@@ -6,8 +6,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Terrestrial_globe.svg/1054px-Terrestrial_globe.svg.png" />
   
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
-<p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
+
+<h2> Here you will be able to learn some vocabulary and sentences in relation to countries.</h2>
+<p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
+
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W7pOkEx4kW8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
