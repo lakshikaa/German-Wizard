@@ -18,7 +18,7 @@
 <p>
 <a style="float:left;" href="hobbies.html">Back to Hobbies</a>
                                       
-<a style="float:right;" href="countries.html"> Continue to Countries and Weather</a>
+<a style="float:right;" href="weather.html"> Continue to Weather</a>
  
 </p>
 
@@ -27,7 +27,7 @@
 
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="familyandpets.html">Family and pets</a></li>
+  <li><a href="family.html">Family</a></li>
   <li><a href="hobbies.html">Hobbies</a></li>
   <li>Places</li>
   <li><a href="weather.html"> Weather</a></li>
