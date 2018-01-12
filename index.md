@@ -1,6 +1,6 @@
 
 
-<h1>Introduction</h1>
+<h1>Learn German </h1>
 
 <img src="img/german flag.png" style="width:65%;" />
 
