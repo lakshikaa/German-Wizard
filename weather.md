@@ -19,7 +19,7 @@
 
 
 <p>
-<a style="float:left;" href="foodanddrinks.html">Back to Food and Drinkss</a>
+<a style="float:left;" href="foodanddrinks.html">Back to Food and Drinks</a>
                                       
 <a style="float:right;" href="clothes.html"> Continue to Clothes</a>
  
