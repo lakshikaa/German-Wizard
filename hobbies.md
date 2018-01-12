@@ -17,7 +17,7 @@
 <p>
 <a style="float:left;" href="family.html">Back to Family</a>
                                       
-<a style="float:right;" href="countries.html">Continue to Places</a>
+<a style="float:right;" href="countries.html">Continue to Countries</a>
  
 </p>
 
@@ -29,7 +29,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="family.html">Family</a></li>
   <li>Hobbies</li>
-   <li><a href="countries.html">Places</a></li>
+   <li><a href="countries.html">Countries</a></li>
    <li><a href="weather.html">Weather</a></li>
    <li><a href="clothes.html">Clothes</a></li>
 </ul>
