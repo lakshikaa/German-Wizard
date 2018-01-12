@@ -19,7 +19,7 @@
 
 
 <p>
-<a style="float:left;" href="foodanddrinks.html">Back to Food and Drinks</a>
+<a style="float:left;" href="countries.html">Places</a>
                                       
 <a style="float:right;" href="clothes.html"> Continue to Clothes</a>
  
@@ -30,7 +30,7 @@
 
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="familyandpets.html">Family and pets</a></li>
+  <li><a href="family.html">Family</a></li>
     <li><a href="hobbies.html">Hobbies</a></li>
     <li><a href="countries.html">Countries</a></li>
   <li>Weather</li>
