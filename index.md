@@ -14,12 +14,19 @@
 <hr>
 <h2>Some HTML Formatting stuff</h2>
 <h3>Lists</h3>
-<h4>Ordered lists have numbers</h4>
+
+<h4>Wie alt bist du?- How old are you?</h4>
 <ol>
-  <li>Item 1</li>
-  <li>item2</li>
+  <li>Ich bin ... Jahre alt.</li>
+ <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
   </ol>
 
+<h4>Wieviel Uhr ist es?- What time is it?</h4>
+<ol>
+  <li>Es ist ... Uhr.</li>
+ <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  </ol>
+  
 <h4>Numbers</h4>
 <ul>
   <li>Eins- One</li>
