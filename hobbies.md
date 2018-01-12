@@ -13,7 +13,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TSHtoUHGp0U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/XDY0RLPJ5WA" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 <p>
 <a style="float:left;" href="family.html">Back to Family</a>
