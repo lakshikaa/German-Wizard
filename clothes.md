@@ -1,4 +1,4 @@
-<h1>Clothes</h1>
+<h1>Kleider</h1>
 
 
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
