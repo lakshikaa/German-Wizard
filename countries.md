@@ -20,6 +20,7 @@
 <iframe src="https://www.google.com/maps/d/embed?mid=1ysIbfpsZQgRdqydrwhqe6DhrUtY8-Gse" width="640" height="480"></iframe>
 
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1eYQ0kLyu2x4y7kPsa1Dy38YlTZlnVG38" width="640" height="480"></iframe>
 
 <p>
 <a style="float:left;" href="hobbies.html">Back to Hobbies</a>
