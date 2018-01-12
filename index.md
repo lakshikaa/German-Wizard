@@ -1,16 +1,21 @@
 
 
-<h1>Learn German </h1>
-
-<img src="img/german flag.png" style="width:65%;" />
+<h1> Learn German </h1>
 
 
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
 <p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
 <p>
   
+  
+<img src="img/german flag.png" style="width:65%;" />
+
+<h2>Watch this video below for some fun and exciting content about german and basic phrases.</h2>
+  
 <iframe width="800" height="450" src="https://www.powtoon.com/embed/dRaHYDAVM3Q/" frameborder="0"></iframe>
   <iframe src="https://archive.org/embed/gruessung" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 <hr>
 <h2>Some HTML Formatting stuff</h2>
 <h3>Lists</h3>
@@ -23,8 +28,8 @@
 
 <h4>Wieviel Uhr ist es?- What time is it?</h4>
 <ol>
-  <li>Es ist ... Uhr.</li>
- <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  <li>Es ist <u><u> Uhr.- It is <u><u> Uhr</li>
+ <li>Es ist rund <u>3<u> Uhr. - It is around <u>3<u> o'clock.</li>
   </ol>
   
 <h4>Numbers</h4>
@@ -88,19 +93,16 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th>Guten Tag</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>German</th>
+    <th>English</th>
   </tr>
   <tr>
-    <td>English</td>
-    <td>French</td>
-    <td>Germany</td>
+    <td>Guten Tag</td>
+    <td>Good Day</td>
   </tr>
   <tr>
-    <td>table</td>
-    <td>la table</td>
-    <td>der Tisch</td>
+    <td>Wie geht es dir?</td>
+    <td>How are you?</td>
   </tr>
   
 </table>
@@ -121,7 +123,7 @@ tr:nth-child(even) {
   <li>Home</li>
   <li><a href="family.html">Family</a></li>
   <li><a href="hobbies.html">Hobbies</a></li>
-  <li><a href="countries.html">Places</a></li>
+  <li><a href="countries.html">Countries</a></li>
   <li><a href="weather.html">Weather</a></li>
    <li><a href="clothes.html">Clothes</a></li>
 </ul>
