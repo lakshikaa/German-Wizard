@@ -2,7 +2,7 @@
 <h1>Das Wetter</h1>
 
 
-<img src="img/Screen Shot 2018-01-12 at 10.45.56.png" style="width:65%;" />
+<img src="img/Screen Shot 2018-01-12 at 10.52.37.png" style="width:65%;" />
 
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
 <p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
