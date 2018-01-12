@@ -18,57 +18,6 @@
 <iframe src="https://h5p.org/h5p/embed/168358" width="1090" height="572" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-<hr>
-<h2>Some HTML Formatting stuff</h2>
-<h3>Lists</h3>
-
-<h4>Wie alt bist du?- How old are you?</h4>
-<ol>
-  <li>Ich bin ... Jahre alt.</li>
- <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
-  </ol>
-
-</p> <h4>Wieviel Uhr ist es?- What time is it?</h4>
-<ol>
-  <li>Es ist .... Uhr.- It is .... o'clock.</li>
- <li>Es ist rund <u>3<u> Uhr. - It is around <u>3<u> o'clock.</li>
-  </ol>
-  </p>
-<h4>Numbers</h4>
-<ul>
-  <li>Eins- One</li>
-  <li>Zwei- Two</li>
-  <li>Drei-Three</li>
-  <li>Vier- Four</li>
-  <li>Fünf- Five</li>
-  <li>Sechs- Six</li>
-  <li>Sieben- Seven</li>
-  <li>Acht-Eight</li>
-  <li>Neun- Nine</li>
-  <li>Zehn- Ten</li>
-  <li>Elf- Eleven</li>
-  <li>Zwölf- Twelve</li>
-  <li>Dreizehn-Thirteen</li>
-  <li>Vierzehn- Fourteen</li>
-  <li>Fünfzehn- Fifteen</li>
-  <li>Sechszehn- Sixteen</li>
-  <li>Siebzehn- Seventeen</li>
-  <li>Achtzehn-Eighteen</li>
-  <li>Neunzehn- Nineteen</li>
-  <li>Zwanzig- Twenty</li>
-    </ul>
-    
-  
-  <p> Complete the following image sequncing acitivity where you have to put the german words for numbers in order starting from the lowest.</p>
-  <iframe src="https://h5p.org/h5p/embed/168034" width="1090" height="751" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-  <h3>Text styles</h3>
-  <p>In this paragraph I am going to <u>underline this </u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh No!</em> he cried. </p>
-
-<hr>
-<h3>Links and Images</h3>
-<p>First I'm going to link to <a href="http://www.dailymail.co.uk/home/index.html">my website</a></p>
-  
 
 <!DOCTYPE html>
 <html>
@@ -106,12 +55,83 @@ tr:nth-child(even) {
     <td>Wie geht es dir?</td>
     <td>How are you?</td>
   </tr>
+  <tr>
+    <td>Wo wohnst du?</td>
+    <td>Where do you live?</td>
+  </tr>
+  <tr>
+    <td>Was machst du heute?</td>
+    <td>What are you doing today?</td>
+  </tr>
+  <tr>
+    <td>Ich habe (nicht)viel zu tun.</td>
+    <td>I do (not) have a lot to do.</td>
+  </tr>
+  <tr>
+    <td>Auf Wiedersehen.</td>
+    <td>Goodbye</td>
+  </tr>
+  <tr>
+    <td>Schoenen Tag</td>
+    <td>Have a good day.</td>
+  </tr>
   
 </table>
 
 </body>
 </html>
 
+<hr>
+<h2>Some HTML Formatting stuff</h2>
+<h3>Lists</h3>
+
+<h4>Wie alt bist du?- How old are you?</h4>
+<ol>
+  <li>Ich bin ... Jahre alt.</li>
+ <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
+  </ol>
+
+ <h4>Wieviel Uhr ist es?- What time is it?</h4>
+<ol>
+  <li>Es ist .... Uhr.- It is .... o'clock.</li>
+ <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  </ol>
+  
+<h4>Numbers</h4>
+<ul>
+  <li>Eins- One</li>
+  <li>Zwei- Two</li>
+  <li>Drei-Three</li>
+  <li>Vier- Four</li>
+  <li>Fünf- Five</li>
+  <li>Sechs- Six</li>
+  <li>Sieben- Seven</li>
+  <li>Acht-Eight</li>
+  <li>Neun- Nine</li>
+  <li>Zehn- Ten</li>
+  <li>Elf- Eleven</li>
+  <li>Zwölf- Twelve</li>
+  <li>Dreizehn-Thirteen</li>
+  <li>Vierzehn- Fourteen</li>
+  <li>Fünfzehn- Fifteen</li>
+  <li>Sechszehn- Sixteen</li>
+  <li>Siebzehn- Seventeen</li>
+  <li>Achtzehn-Eighteen</li>
+  <li>Neunzehn- Nineteen</li>
+  <li>Zwanzig- Twenty</li>
+    </ul>
+    
+  
+  <p> Complete the following image sequncing acitivity where you have to put the german words for numbers in order starting from the lowest.</p>
+  <iframe src="https://h5p.org/h5p/embed/168034" width="1090" height="751" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+  <h3>Text styles</h3>
+  <p>In this paragraph I am going to <u>underline this </u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh No!</em> he cried. </p>
+
+<hr>
+<h3>Links and Images</h3>
+<p>If you want to learn about the foundations of german and its grammar, then please have a look at the following link. Here you will find how to construct sentences with the basic grammar rules needed in the german language. <a href="https://www.deutsch-lernen.com/learn-german-online/beginners/lesson_1.php">my website</a></p>
+  
 
 <p>
                                       
