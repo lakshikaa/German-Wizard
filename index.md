@@ -132,9 +132,9 @@ tr:nth-child(even) {
 
 <hr>
 <h3>Other useful links.</h3>
-<p>If you want to learn about the foundations of german and its grammar, then please have a look at the following link. Here you will find how to construct sentences with the basic grammar rules needed in the german language. <a href="https://www.deutsch-lernen.com/learn-german-online/beginners/lesson_1.php">my website</a></p>
+<p>If you want to learn about the foundations of german and its grammar, then please have a look at the following link. Here you will find how to construct sentences with the basic grammar rules needed in the german language. <a href="https://www.deutsch-lernen.com/learn-german-online/beginners/lesson_1.php">Useful site to learn grammar basics.</a></p>
 
- <a href="http://www.bbc.co.uk/languages/german/talk/">my website</a></p>
+ <a href="http://www.bbc.co.uk/languages/german/talk/">Useful site to learn a variety of vocabulary and grammar.</a></p>
 
 <p>
                                       
