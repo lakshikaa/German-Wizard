@@ -17,10 +17,8 @@
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DiGN5B2-tIs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h3>Give the activity below a go. You can do this! </h3>
-<iframe src="https://h5p.org/h5p/embed/168358" width="1090" height="572" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
+  <h3>Below is a grid with some useful vocabulary with the english and its german translation.</h3>
 
 <html>
 <head>
@@ -74,7 +72,7 @@ tr:nth-child(even) {
     <td>Goodbye</td>
   </tr>
   <tr>
-    <td>Schoenen Tag</td>
+    <td>Schönen Tag</td>
     <td>Have a good day.</td>
   </tr>
   
@@ -83,12 +81,20 @@ tr:nth-child(even) {
 </body>
 </html>
 
+
+<h2>Activities</h2>
+
+<h3>Give the activity below a go. You can do this! </h3>
+
+<iframe src="https://h5p.org/h5p/embed/168358" width="1090" height="572" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h3>Here is another activity that will help you on your way to becoming a German wizard and win everyones hearts with your german skills. </h3>
 <iframe src="https://h5p.org/h5p/embed/168383" width="1090" height="484" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
 <h2>Basics</h2>
 
-<h3>Numbers</h3>
+<h3>Numbers: below is a list of the numbers that will be useful. There is the german word for each of the numbers followed by its english translation.</h3>
 <ul>
   <li>Eins- One</li>
   <li>Zwei- Two</li>
@@ -111,7 +117,8 @@ tr:nth-child(even) {
   <li>Neunzehn- Nineteen</li>
   <li>Zwanzig- Twenty</li>
     </ul>
-    <h3> Basic phrases. <h3>
+    
+    <h3> Basic phrases. Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. <h3>
   <h4>Wie alt bist du?- How old are you?</h4>
 <ol>
   <li>Ich bin ... Jahre alt.</li>
@@ -123,11 +130,10 @@ tr:nth-child(even) {
   <li>Es ist .... Uhr.- It is .... o'clock.</li>
  <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
   </ol>
-  <p> Complete the following image sequncing acitivity where you have to put the german words for numbers in order starting from the lowest.</p>
+  
+  <p> Complete the following image sequencing acitivity where you have to put the german words for numbers in order starting from the lowest.</p>
   <iframe src="https://h5p.org/h5p/embed/168034" width="1090" height="751" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-  <h3>Text styles</h3>
-  <p>In this paragraph I am going to <u>underline this </u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh No!</em> he cried. </p>
 
 <hr>
 <h3>Other useful links.</h3>
