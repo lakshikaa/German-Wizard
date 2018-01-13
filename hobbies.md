@@ -14,7 +14,9 @@
 
 <iframe src="https://h5p.org/h5p/embed/168098" width="1090" height="1004" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
+<h2> Vocabulary and phrases</h2>
+<p> Below, find the table with useful vocabulary centered around the topic, hobbies. It will be in german followed by the english translation. </p>
+<p>
 
 <html>
 <head>
@@ -44,32 +46,32 @@ tr:nth-child(even) {
     <th>English</th>
   </tr>
   <tr>
-    <td>Guten Tag</td>
-    <td>Good Day</td>
+    <td>Fussball spielen</td>
+    <td>play football</td>
   </tr>
   <tr>
-    <td>Wie geht es dir?</td>
-    <td>How are you?</td>
+    <td>Kunst machen</td>
+    <td>to do art</td>
   </tr>
   <tr>
-    <td>Wo wohnst du?</td>
-    <td>Where do you live?</td>
+    <td>ins kino gehen</td>
+    <td>to go to the cinema</td>
   </tr>
   <tr>
-    <td>Was machst du heute?</td>
-    <td>What are you doing today?</td>
+    <td>mit Freunde treffen</td>
+    <td>to meet with friends</td>
   </tr>
   <tr>
-    <td>Ich habe (nicht)viel zu tun.</td>
-    <td>I do (not) have a lot to do.</td>
+    <td>tanzen</td>
+    <td>dancing</td>
   </tr>
   <tr>
-    <td>Auf Wiedersehen.</td>
-    <td>Goodbye</td>
+    <td>Reiten</td>
+    <td>Horse riding</td>
   </tr>
   <tr>
-    <td>Schoenen Tag</td>
-    <td>Have a good day.</td>
+    <td>Computer-spiel spielen</td>
+    <td>to play computer games</td>
   </tr>
   
 </table>
