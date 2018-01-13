@@ -8,7 +8,8 @@
 <p>
   
   
-  <h2>This is the German flag: consisting of three horizontal stripes of black,red and gold. It was adopted in 1949.</h3>
+  <h2>This is the German flag.
+  Interesting Fact: It consists of three horizontal stripes of black,red and gold. It was adopted in 1949.</h2>
 
 <img src="img/german flag.png" style="width:65%;" />
 
