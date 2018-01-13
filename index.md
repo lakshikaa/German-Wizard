@@ -120,7 +120,7 @@ tr:nth-child(even) {
   <li>Zwanzig- Twenty</li>
     </ul>
     
-    <h2> Basic phrases. Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </h2> 
+    <h3> Basic phrases. Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </h3> 
    
   <p>Wie alt bist du?- How old are you?</p>
 <ol>
@@ -146,7 +146,7 @@ tr:nth-child(even) {
  </p>
 
 
-<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
+<h4> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h4>
 
 <p>
                                       
