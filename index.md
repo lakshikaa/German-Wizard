@@ -8,8 +8,9 @@
 <p>
   
   
-  <h2>This is the German flag.
-  Interesting Fact: It consists of three horizontal stripes of black,red and gold. It was adopted in 1949.</h2>
+  <p>This is the German flag.
+  Interesting Fact: It consists of three horizontal stripes of black,red and gold. It was adopted in 1949.</p>
+  <p>
 
 <img src="img/german flag.png" style="width:65%;" />
 
@@ -119,14 +120,15 @@ tr:nth-child(even) {
   <li>Zwanzig- Twenty</li>
     </ul>
     
-    <h3> Basic phrases. Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. <h3>
-  <h2>Wie alt bist du?- How old are you?</h2>
+    <h2> Basic phrases. Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </h2> 
+   
+  <p>Wie alt bist du?- How old are you?</p>
 <ol>
   <li>Ich bin ... Jahre alt.</li>
  <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
   </ol>
   
- <h2>Wieviel Uhr ist es?- What time is it?</h2>
+ <p>Wieviel Uhr ist es?- What time is it?</p>
 <ol>
   <li>Es ist .... Uhr.- It is .... o'clock.</li>
  <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
@@ -140,6 +142,9 @@ tr:nth-child(even) {
 <p>If you want to learn about the foundations of german and its grammar, then please have a look at the following link. Here you will find how to construct sentences with the basic grammar rules needed in the german language. <a href="https://www.deutsch-lernen.com/learn-german-online/beginners/lesson_1.php">Useful site to learn grammar basics.</a></p>
 
  <a href="http://www.bbc.co.uk/languages/german/talk/">Useful site to learn a variety of vocabulary and grammar.</a></p>
+
+
+<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
 
 <p>
                                       
