@@ -44,33 +44,37 @@ tr:nth-child(even) {
     <th>German</th>
     <th>English</th>
   </tr>
-  <tr>
-    <td>Guten Tag</td>
-    <td>Good Day</td>
+   <tr>
+    <td>Wetter</td>
+    <td>Weather</td>
   </tr>
   <tr>
-    <td>Wie geht es dir?</td>
-    <td>How are you?</td>
+    <td>Sonnig</td>
+    <td>Sunny</td>
   </tr>
   <tr>
-    <td>Wo wohnst du?</td>
-    <td>Where do you live?</td>
+    <td>Windig</td>
+    <td>Windy</td>
   </tr>
   <tr>
-    <td>Was machst du heute?</td>
-    <td>What are you doing today?</td>
+    <td>Schneien</td>
+    <td>Snowy</td>
   </tr>
   <tr>
-    <td>Ich habe (nicht)viel zu tun.</td>
-    <td>I do (not) have a lot to do.</td>
+    <td>Beleuchtung</td>
+    <td>Lightning</td>
   </tr>
   <tr>
-    <td>Auf Wiedersehen.</td>
-    <td>Goodbye</td>
+    <td>Donner</td>
+    <td>Thunder</td>
   </tr>
   <tr>
-    <td>Schoenen Tag</td>
-    <td>Have a good day.</td>
+    <td>Bewölkt</td>
+    <td>Cloudy</td>
+  </tr>
+  <tr>
+    <td>Regnet</td>
+    <td>Rainy</td>
   </tr>
   
 </table>
