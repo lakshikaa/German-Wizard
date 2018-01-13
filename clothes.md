@@ -74,8 +74,14 @@ tr:nth-child(even) {
 <h2> Here you will be able to learn some vocabulary and sentences in relation to cothes.</h2>
 <p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
+    <h2> Vocabulary</h2>
+<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
+<p>
 <iframe src="https://h5p.org/h5p/embed/166510" width="1090" height="790" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<h2> Vocabulary</h2>
+<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
+<p>
 <iframe src="https://h5p.org/h5p/embed/167484" width="1090" height="693" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
