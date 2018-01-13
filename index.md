@@ -149,6 +149,10 @@ tr:nth-child(even) {
 
 <div style="clear:both;"></div>
 
+
+Student Number: 160406742
+
+
 <ul class="breadcrumb">
   <li>Home</li>
   <li><a href="family.html">Family</a></li>
@@ -165,4 +169,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-Student Number: 160406742
