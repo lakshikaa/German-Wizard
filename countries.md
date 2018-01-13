@@ -108,7 +108,7 @@ tr:nth-child(even) {
   
 <a href="https://www.thoughtco.com/countries-of-the-world-index-4101906">Website on countries.</a></p>
 
-<h2> Hope you had fun. Time to continue exploring.</h2>
+<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
 
 
 <p>
