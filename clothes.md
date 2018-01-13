@@ -6,6 +6,68 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeUiq1YdxXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
+
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>German</th>
+    <th>English</th>
+  </tr>
+  <tr>
+    <td>Guten Tag</td>
+    <td>Good Day</td>
+  </tr>
+  <tr>
+    <td>Wie geht es dir?</td>
+    <td>How are you?</td>
+  </tr>
+  <tr>
+    <td>Wo wohnst du?</td>
+    <td>Where do you live?</td>
+  </tr>
+  <tr>
+    <td>Was machst du heute?</td>
+    <td>What are you doing today?</td>
+  </tr>
+  <tr>
+    <td>Ich habe (nicht)viel zu tun.</td>
+    <td>I do (not) have a lot to do.</td>
+  </tr>
+  <tr>
+    <td>Auf Wiedersehen.</td>
+    <td>Goodbye</td>
+  </tr>
+  <tr>
+    <td>Schoenen Tag</td>
+    <td>Have a good day.</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
 <h2> Here you will be able to learn some vocabulary and sentences in relation to cothes.</h2>
 <p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
