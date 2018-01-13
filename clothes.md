@@ -101,15 +101,16 @@ tr:nth-child(even) {
  <li>Nein, das passt. - No, that is ok.</li>
   </ol>
 
-    <h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
+    <h2> Hotspots</h2>
+<p> Below, try and guess what the hotspots could be then click to find out what they are. Have fun! </p>
 <p>
 <iframe src="https://h5p.org/h5p/embed/166510" width="1090" height="790" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
-<h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
+<h2> Drag and Drop Activity </h2>
+<p> Below, find the drag and drop activty where you have to match the german words with the image that it matches. Have fun! </p>
+
 <p>
 <iframe src="https://h5p.org/h5p/embed/167484" width="1090" height="693" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
