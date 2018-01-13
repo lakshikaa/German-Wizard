@@ -11,6 +11,69 @@
 <p>
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/JHDwPmhE5EI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ 
+ 
+
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>German</th>
+    <th>English</th>
+  </tr>
+  <tr>
+    <td>Guten Tag</td>
+    <td>Good Day</td>
+  </tr>
+  <tr>
+    <td>Wie geht es dir?</td>
+    <td>How are you?</td>
+  </tr>
+  <tr>
+    <td>Wo wohnst du?</td>
+    <td>Where do you live?</td>
+  </tr>
+  <tr>
+    <td>Was machst du heute?</td>
+    <td>What are you doing today?</td>
+  </tr>
+  <tr>
+    <td>Ich habe (nicht)viel zu tun.</td>
+    <td>I do (not) have a lot to do.</td>
+  </tr>
+  <tr>
+    <td>Auf Wiedersehen.</td>
+    <td>Goodbye</td>
+  </tr>
+  <tr>
+    <td>Schoenen Tag</td>
+    <td>Have a good day.</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
 
 <iframe src="https://h5p.org/h5p/embed/168221" width="1090" height="748" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
