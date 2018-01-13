@@ -88,19 +88,24 @@ tr:nth-child(even) {
 </html>
 
 <h2> Map with hotspots</h2>
-<p> Below, find a map of Europe with brief descriptions of the capital cities of some countries. There will be the german descriptions followed by its english translations. Click on each of the hotspots to find out interesting information.</p>
 
+<p> Below, find a map of Europe with brief descriptions of the capital cities of some countries. There will be the german descriptions followed by its english translations. Click on each of the hotspots to find out interesting information.</p>
+<p>
 <iframe src="https://www.google.com/maps/d/embed?mid=1eYQ0kLyu2x4y7kPsa1Dy38YlTZlnVG38" width="640" height="480"></iframe>
 
 <h2>Memory Game Activity</h2>
+
 <p> Below, find a memory game where you have to match the countries' flags/names in english with german word for it. Good luck!</p>
-  
+  <p>
 <iframe src="https://h5p.org/h5p/embed/167465" width="1090" height="1004" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 <hr>
 <h3>Other useful links.</h3>
-<p>If you want to learn more about countries in german then have a look at the following links. <a href="https://www.youtube.com/watch?v=JOgBEiv7e-c">Video on countries.</a></p>
+<p>If you want to learn more about countries in german then have a look at the following links.
+  
+  <a href="https://www.youtube.com/watch?v=JOgBEiv7e-c">Video on countries.</a></p>
+  
 <a href="https://www.thoughtco.com/countries-of-the-world-index-4101906">Website on countries.</a></p>
 
 <p>
