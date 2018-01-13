@@ -98,6 +98,10 @@ tr:nth-child(even) {
 <iframe src="https://h5p.org/h5p/embed/167465" width="1090" height="1004" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
+<hr>
+<h3>Other useful links.</h3>
+<p>If you want to learn more about countries in german then have a look at the following links. <a href="https://www.youtube.com/watch?v=JOgBEiv7e-c">Video on countries.</a></p>
+<a href="https://www.thoughtco.com/countries-of-the-world-index-4101906">Website on countries.</a></p>
 
 <p>
 <a style="float:left;" href="hobbies.html">Back to Hobbies</a>
