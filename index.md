@@ -6,7 +6,7 @@
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
 <p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
 <p>
-  <img src="wizard-1454385_640.png" style="width:15%;" />
+  <img src="wizard-1454385_640.png" style="width:35%;" />
   <p> This is a german wizard who will be with you through the whole website. You can become as skilled as the wizard with all the fun practice. Have fun.</p>
 <p>
   
