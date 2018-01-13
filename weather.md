@@ -13,6 +13,9 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/JHDwPmhE5EI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  
  
+<h2> Vocabulary</h2>
+<p> Below, find the table with useful vocabulary centered around the topic, weather. It will be in german followed by the english translation. </p>
+<p>
 
 <html>
 <head>
