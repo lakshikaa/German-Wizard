@@ -7,7 +7,7 @@
   
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
 
-<h2> Here you will be able to learn some vocabulary and sentences in relation to countries.</h2>
+<h4> Here you will be able to learn some vocabulary and sentences in relation to countries.</h4>
 <p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
 
@@ -89,18 +89,18 @@ tr:nth-child(even) {
 
 
  <h2> Basic phrases.  </h2> 
-  <p> Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </p>
+  <p> Here, below you can find some simple sentences you can contruct with the use of the vocabularay/sentence structure provided. First, the  german sentence is given followed by the english translation. </p>
   
-  <p>Wie alt bist du?- How old are you?</p>
+  <p>In welchem Land wohnst du?/woher kommst du aus?- In what country do you live?/where do you come from?</p>
 <ol>
-  <li>Ich bin ... Jahre alt.</li>
- <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
+  <li>Ich wohne in ... (Gross-Britanien).</li>
+ <li>Ich komme aus... (Deutschland). - I come from... (Germany).</li>
   </ol>
   
- <p>Wieviel Uhr ist es?- What time is it?</p>
+ <p>Wo willst du gehen?- Where do you want to go?</p>
 <ol>
-  <li>Es ist .... Uhr.- It is .... o'clock.</li>
- <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  <li>Ich will nach ....(Deutschland) fahren.- I would like to go to ...(Germany).</li>
+ <li> Ich möchte nach...( Frankreich) fliegen. - I would like to fly to...(France).</li>
   </ol>
   
 <h2> Map with hotspots</h2>
@@ -124,7 +124,7 @@ tr:nth-child(even) {
   
 <a href="https://www.thoughtco.com/countries-of-the-world-index-4101906">Website on countries.</a></p>
 
-<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
+<h4> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h4>
 
 
 <p>
