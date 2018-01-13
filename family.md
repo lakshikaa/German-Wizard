@@ -4,7 +4,11 @@
 
 <img src="img/stick-figure-family.jpg" style="width:65%;" />
 
-<h2> Here you will be able to learn some vocabulary and sentences in relation to family.</h2>
+<h2> Here you will be able to learn some vocabulary and sentences in relation to family. You can become a german wizard.</h2>
+
+
+  <img src="wizard-1454385_640.png" style="width:15%;" />
+  
 <p> Scroll down to see and watch the video with useful vocabulary and sentences. There will be useful tips and information along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
 
