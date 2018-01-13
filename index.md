@@ -7,8 +7,6 @@
 <p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
 <p>
  
- <img src="wizard-1454385_640.png" style="width:65%;" />
-  
   <p>This is the German flag.
   Interesting Fact: It consists of three horizontal stripes of black,red and gold. It was adopted in 1949.</p>
   <p>
