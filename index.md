@@ -119,19 +119,19 @@ tr:nth-child(even) {
     </ul>
     
     <h3> Basic phrases. Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. <h3>
-  <h4>Wie alt bist du?- How old are you?</h4>
+  <h2>Wie alt bist du?- How old are you?</h2>
 <ol>
   <li>Ich bin ... Jahre alt.</li>
  <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
   </ol>
   
- <h4>Wieviel Uhr ist es?- What time is it?</h4>
+ <h2>Wieviel Uhr ist es?- What time is it?</h2>
 <ol>
   <li>Es ist .... Uhr.- It is .... o'clock.</li>
  <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
   </ol>
   
-  <p> Complete the following image sequencing acitivity where you have to put the german words for numbers in order starting from the lowest.</p>
+  <h4> Complete the following image sequencing activity where you have to put the german words for numbers in order starting from the lowest.<h4>
   <iframe src="https://h5p.org/h5p/embed/168034" width="1090" height="751" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
