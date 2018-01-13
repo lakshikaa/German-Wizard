@@ -111,9 +111,9 @@ tr:nth-child(even) {
 <h3>Other useful links.</h3>
 <p>If you want to learn more about countries in german then have a look at the following links.
   
-  <a href="https://www.youtube.com/watch?v=JOgBEiv7e-c">Video on countries.</a></p>
+  <a href="https://www.youtube.com/watch?v=BwoKITTecio">Video on learning about the weather.</a></p>
   
-<a href="https://www.thoughtco.com/countries-of-the-world-index-4101906">Website on countries.</a></p>
+<a href="https://www.thoughtco.com/talk-about-the-weather-in-german-4077805">Website on learning about the weather.</a></p>
 
 <h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
 
