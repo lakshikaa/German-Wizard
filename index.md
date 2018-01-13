@@ -6,11 +6,7 @@
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
 <p> Scroll down to see an induction into the german language, where you will be able to learn some introductary words and phrases. You will also find different activities on each of the pages under each of the different topics given. Give it a go- you can become a german wizard.</p>
 <p>
-  <img src="wizard-1454385_640.png" style="width:65%;" />
-  
-  <p> This is a german wizard who will be with you through the whole website. You can become as skilled as the wizard with all the fun practice. Have fun.</p>
-<p>
-  
+ 
   
   <p>This is the German flag.
   Interesting Fact: It consists of three horizontal stripes of black,red and gold. It was adopted in 1949.</p>
@@ -117,13 +113,16 @@ tr:nth-child(even) {
   </ol>
   
   
-<h2>Activities</h2>
+<h2>Fill in the blanks Activity</h2>
 
-<h3>Give the activity below a go. You can do this! </h3>
+<h3>Give the activity below a go. All you have to do is fill in the blanks with the appropriate german word. You can do this! </h3>
 
 <iframe src="https://h5p.org/h5p/embed/168358" width="1090" height="572" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<h2>Record yourself</h2>
+
 <h3>Here is another activity that will help you on your way to becoming a German wizard and win everyones hearts with your german skills. </h3>
+
 <iframe src="https://h5p.org/h5p/embed/168383" width="1090" height="484" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
@@ -167,6 +166,8 @@ tr:nth-child(even) {
   <li>Es ist .... Uhr.- It is .... o'clock.</li>
  <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
   </ol>
+  
+  <h2>Image Sequencing Activity</h2>
   
   <h3> Complete the following image sequencing activity where you have to put the german words for numbers in order starting from the lowest.<h3>
   <iframe src="https://h5p.org/h5p/embed/168034" width="1090" height="751" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
