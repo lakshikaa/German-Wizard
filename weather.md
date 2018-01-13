@@ -4,7 +4,7 @@
 
 <img src="img/Screen Shot 2018-01-12 at 10.52.37.png" style="width:65%;" />
 
-<h2>Welcome to the topic: the Weather. You can become a german wizard at the topic: the Weather.</h2>
+<h2>Welcome to the topic: the Weather.</h2>
 
   <img src="wizard-1454385_640.png" style="width:15%;" />
   
