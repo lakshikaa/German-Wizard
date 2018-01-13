@@ -77,6 +77,22 @@ tr:nth-child(even) {
 </body>
 </html>
 
+
+ <h2> Basic phrases.  </h2> 
+  <p> Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </p>
+  
+  <p>Wie alt bist du?- How old are you?</p>
+<ol>
+  <li>Ich bin ... Jahre alt.</li>
+ <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
+  </ol>
+  
+ <p>Wieviel Uhr ist es?- What time is it?</p>
+<ol>
+  <li>Es ist .... Uhr.- It is .... o'clock.</li>
+ <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  </ol>
+  
 <h2> Vocabulary</h2>
 <p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
 <p>
