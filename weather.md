@@ -95,8 +95,8 @@ tr:nth-child(even) {
  <li>Es hat geregnet/ gestern war es sonnig. - It had rained/ yesterday it was sunny.</li>
   </ol>
   
-<h2> Activity</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, weather. It will be in german followed by the english translation. </p>
+<h2> Fill in the blanks Activity</h2>
+<p> Below, have a go at the fill in the blank acitvity. You can attempt to translate and fill in the blanks in german or you can choose to listen to the video and fill in the missing german word. Have fun! </p>
 <p>
   
   
@@ -107,10 +107,10 @@ tr:nth-child(even) {
 
 
 
-<h2>Listening Task</h2>
+<h2>Drag and drop Activity</h2>
 
 
-<p>Watch the video and then complete the task below.</p>
+<p>Watch the video and then complete the drag and drop activity below. Have fun!</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qExjZ8kXfuQ?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
