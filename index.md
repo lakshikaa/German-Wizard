@@ -20,7 +20,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DiGN5B2-tIs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-  <h2>Below is a grid with some useful vocabulary with the english and its german translation.</h2>
+  <h2>Translations</h2>
+  <p>Below is a grid with some useful phrases in german followed by its english translation.
 
 <html>
 <head>
@@ -120,7 +121,7 @@ tr:nth-child(even) {
   <li>Zwanzig- Twenty</li>
     </ul>
     
-    <h3> Basic phrases. Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </h3> 
+    <h2> Basic phrases. Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </h2> 
    
   <p>Wie alt bist du?- How old are you?</p>
 <ol>
