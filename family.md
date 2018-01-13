@@ -12,7 +12,7 @@
 
 
 <h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, hobbies. It will be in german followed by the english translation. </p>
+<p> Below, find the table with useful vocabulary centered around the topic, family. It will be in german followed by the english translation. </p>
 <p>
     
 <html>
@@ -43,38 +43,48 @@ tr:nth-child(even) {
     <th>English</th>
   </tr>
   <tr>
-    <td>Guten Tag</td>
-    <td>Good Day</td>
+    <td>Familie</td>
+    <td>Family</td>
   </tr>
   <tr>
-    <td>Wie geht es dir?</td>
-    <td>How are you?</td>
+    <td>Familenmitglieder</td>
+    <td>Family members</td>
   </tr>
   <tr>
-    <td>Wo wohnst du?</td>
-    <td>Where do you live?</td>
+    <td>Verwandten</td>
+    <td>Relatives</td>
   </tr>
   <tr>
-    <td>Was machst du heute?</td>
-    <td>What are you doing today?</td>
+    <td>(Gross-)Eltern</td>
+    <td>(Grand-)Parents</td>
   </tr>
   <tr>
-    <td>Ich habe (nicht)viel zu tun.</td>
-    <td>I do (not) have a lot to do.</td>
+    <td>Geschwister</td>
+    <td>Siblings</td>
   </tr>
   <tr>
-    <td>Auf Wiedersehen.</td>
-    <td>Goodbye</td>
+    <td>Vater/Mutter</td>
+    <td>Father/Mother</td>
   </tr>
   <tr>
-    <td>Schoenen Tag</td>
-    <td>Have a good day.</td>
+    <td>Bruder/Schwester</td>
+    <td>Brother/Sister</td>
+  </tr>
+  <tr>
+    <td>Opa/Oma</td>
+    <td>Grandpa/Grandma</td>
+  </tr>
+    <tr>
+    <td>Onkel/Tante</td>
+    <td>Uncle/Aunty</td>
   </tr>
   
 </table>
 
 </body>
 </html>
+
+
 <iframe src="https://h5p.org/h5p/embed/168374" width="1090" height="830" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe src="https://h5p.org/h5p/embed/168196" width="1090" height="693" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
