@@ -3,8 +3,10 @@
 
 <img src="img/Screen Shot 2018-01-12 at 10.45.56.png" style="width:65%;" />
 
-<h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, clothes. It will be in german followed by the english translation. </p>
+<h2>Welcome to clothes. You can become a german wizard at clothes.</h2>
+
+<h4> Here you will be able to learn some vocabulary and sentences in relation to clothes.</h4>
+<p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeUiq1YdxXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -45,6 +47,14 @@ tr:nth-child(even) {
     <td>Kleider</td>
     <td>Clothes</td>
   </tr>
+    <tr>
+    <td>tragen</td>
+    <td>wear</td>
+  </tr>
+    <tr>
+    <td>anziehen</td>
+    <td>change</td>
+  </tr>
   <tr>
     <td>Hose</td>
     <td>Trousers</td>
@@ -79,16 +89,16 @@ tr:nth-child(even) {
  <h2> Basic phrases.  </h2> 
   <p> Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </p>
   
-  <p>Wie alt bist du?- How old are you?</p>
+  <p>Was möchtest du tragen?- What do you want to wear?</p>
 <ol>
-  <li>Ich bin ... Jahre alt.</li>
- <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
+  <li>Ich weiss nicht.- I do not know.</li>
+ <li>Ich möchte Hose und ein hemd tragen. - I would like to wear trousers and a shirt.</li>
   </ol>
   
- <p>Wieviel Uhr ist es?- What time is it?</p>
+ <p>Soll ich meine Kleider anziehen?- Should I change my clothes?</p>
 <ol>
-  <li>Es ist .... Uhr.- It is .... o'clock.</li>
- <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  <li>Ja, das wird besser sein.- Yes, that will be better.</li>
+ <li>Nein, das passt. - No, that is ok.</li>
   </ol>
 
     <h2> Vocabulary</h2>
@@ -113,7 +123,7 @@ tr:nth-child(even) {
   
 <a href="https://www.rocketlanguages.com/german/lessons/clothes-in-german">Website on clothes.</a></p>
 
-<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
+<h4> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h4>
 
 
 <p>
