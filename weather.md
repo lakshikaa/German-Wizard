@@ -6,7 +6,7 @@
 
 <h2>Welcome to German Wizard where you can learn and improve your German skills from scratch.</h2>
 
-<h2> Here you will be able to learn some vocabulary and sentences in relation to the weather.</h2>
+<h4> Here you will be able to learn some vocabulary and sentences in relation to the weather.</h4>
 <p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
   
@@ -81,22 +81,22 @@ tr:nth-child(even) {
 
 
  <h2> Basic phrases.  </h2> 
-  <p> Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </p>
+  <p> Here, below you can find some simple sentences you can contruct with the use of vocabulary provided. First, the  german sentence is given followed by the english translation. </p>
   
-  <p>Wie alt bist du?- How old are you?</p>
+  <p>Wie ist das Wetter heute?- How is the weather today?</p>
 <ol>
-  <li>Ich bin ... Jahre alt.</li>
- <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
+  <li>Das Wetter ist gut/schlecht.- The weather is good/bad.</li>
+ <li>Heute regnet es/ heute ist es sonnig, - Today it is raining/ today it is sunny.</li>
   </ol>
   
- <p>Wieviel Uhr ist es?- What time is it?</p>
+ <p>Wie war das Wetter gestern/letzte Woche?- How was the weather yesterday/last week?</p>
 <ol>
-  <li>Es ist .... Uhr.- It is .... o'clock.</li>
- <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  <li>Das Wetter war gut/schlecht .- The Weather was good/bad.</li>
+ <li>Es hat geregnet/ gestern war es sonnig. - It had rained/ yesterday it was sunny.</li>
   </ol>
   
 <h2> Activity</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
+<p> Below, find the table with useful vocabulary centered around the topic, weather. It will be in german followed by the english translation. </p>
 <p>
   
   
@@ -105,11 +105,7 @@ tr:nth-child(even) {
 
 <iframe src="https://h5p.org/h5p/embed/168221" width="1090" height="748" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
-<p>
-  
-<iframe src="https://h5p.org/h5p/embed/168382" width="1090" height="664" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <h2>Listening Task</h2>
 
@@ -132,7 +128,7 @@ tr:nth-child(even) {
   
 <a href="https://www.thoughtco.com/talk-about-the-weather-in-german-4077805">Website on learning about the weather.</a></p>
 
-<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
+<h4> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h4>
 
 
 
