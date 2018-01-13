@@ -81,26 +81,27 @@ tr:nth-child(even) {
  <h2> Basic phrases.  </h2> 
   <p> Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation.</p>
   
-  <p>Wie alt bist du?- How old are you?</p>
+  <p>Was sind deine hobbys?- What are your hobbies?</p>
 <ol>
-  <li>Ich bin ... Jahre alt.</li>
- <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
+  <li>Ich liebe ... (Fussball spielen).</li>
+ <li>(Kunst machen)hat mir sehr gut gefallen. - I like doing art.</li>
   </ol>
   
- <p>Wieviel Uhr ist es?- What time is it?</p>
+ <p>Macht du es sehr oft?- Do you do it often?</p>
 <ol>
-  <li>Es ist .... Uhr.- It is .... o'clock.</li>
- <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  <li>Ja ich mache Kunst/spiele Fussball/treffe Freunde es (einmal,zweimal, dreimal,viermal) pro Woche Monat.- Yes, i do art/play Football/ meet friends (once,twice,three times, fourtimes) a week/month.</li>
+ <li>Nein,nicht oft. - No, not often.</li>
   </ol>
   
-<h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
+<h2> Memory Game Activity</h2>
+<p> Below, find the memory game where you have to match the image with the words. </p>
 <p>
     
 <iframe src="https://h5p.org/h5p/embed/168098" width="1090" height="1004" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
+
+<h2> VFlashcard Activity</h2>
+<p> Below, find the flashcard activity where you have to type in the german word that matches the picture and english translation.</p>
 <p>
     
 <iframe src="https://h5p.org/h5p/embed/168369" width="1090" height="830" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -114,7 +115,7 @@ tr:nth-child(even) {
   
 <a href="https://study.com/academy/lesson/german-hobbies-vocabulary.html">Website on hobbies.</a></p>
 
-<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
+<h4> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h4>
 
 
 
