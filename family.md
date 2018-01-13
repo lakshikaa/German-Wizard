@@ -4,8 +4,8 @@
 
 <img src="img/stick-figure-family.jpg" style="width:65%;" />
 
-<h2> Here you will be able to learn some vocbulary and sentences in relation to family.</h2>
-<p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
+<h2> Here you will be able to learn some vocabulary and sentences in relation to family.</h2>
+<p> Scroll down to see and watch the video with useful vocabulary and sentences. There will be useful tips and information along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i_DDxF_AfMY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -85,7 +85,7 @@ tr:nth-child(even) {
 </html>
 
 
- <h2> Basic phrases.  </h2> 
+ <h2> Basic phrases.</h2> 
   <p> Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </p>
   
   <p>Wie alt bist du?- How old are you?</p>
@@ -100,13 +100,13 @@ tr:nth-child(even) {
  <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
   </ol>
   
-<h2> Vocabulary</h2>
+<h2> Flashcard Activity</h2>
 <p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
 <p>
 
 <iframe src="https://h5p.org/h5p/embed/168374" width="1090" height="830" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h2> Vocabulary</h2>
+<h2> Drag and drop Activity</h2>
 <p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
 <p>
     
