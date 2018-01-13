@@ -3,7 +3,7 @@
 
 <img src="img/Screen Shot 2018-01-12 at 10.45.56.png" style="width:65%;" />
 
-<h2>Welcome to clothes. You can become a german wizard at clothes.</h2>
+<h2>Welcome to the topic: clothes. You can become a german wizard at the topic: clothes.</h2>
 
 
   <img src="wizard-1454385_640.png" style="width:15%;" />
