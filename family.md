@@ -103,7 +103,7 @@ tr:nth-child(even) {
   
   <a href="https://www.youtube.com/watch?v=npzGh2GorGQ&t=38s">Video on family.</a></p>
   
-<a href="https://www.thoughtco.com/beginner-german-for-family-members-4064661">Website on countries.</a></p>
+<a href="https://www.thoughtco.com/beginner-german-for-family-members-4064661">Website on family.</a></p>
 
 <h2> Hope you had fun! You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
 <p>
