@@ -89,12 +89,22 @@ tr:nth-child(even) {
 <iframe src="https://h5p.org/h5p/embed/167484" width="1090" height="693" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-<p>If you would like to learn more about clothes,  watch the video on the following link. <a href="https://youtu.be/rtZp3bUQrKA">Video on clothes</a></p>
+
+<hr>
+<h3>Other useful links.</h3>
+<p>If you want to learn more about countries in german then have a look at the following links.
+  
+  <a href="https://youtu.be/rtZp3bUQrKA">Video on clothes.</a></p>
+  
+<a href="https://www.rocketlanguages.com/german/lessons/clothes-in-german">Website on clothes.</a></p>
+
+<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
+
 
 <p>
 <a style="float:left;" href="weather.html">Back to Weather</a>
                                       
-<a style="float:right;" href="index.html"> Go back to home page</a>
+<a style="float:right;" href="index.html"> Go back to Home page</a>
  
 </p>
 
