@@ -7,6 +7,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeUiq1YdxXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+<h2> Vocabulary</h2>
+<p> Below, find the table with useful vocabulary centered around the topic, clothes. It will be in german followed by the english translation. </p>
+<p>
 
 <html>
 <head>
