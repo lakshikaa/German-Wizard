@@ -75,6 +75,18 @@ tr:nth-child(even) {
     <td>I do (not) have a lot to do.</td>
   </tr>
   <tr>
+    <td>Schoen dich kennenzulernen.</td>
+    <td>Nice to meet you.</td>
+  </tr>
+  <tr>
+    <td>Danke</td>
+    <td>Thanks</td>
+  </tr>
+  <tr>
+    <td>Entschuldigung</td>
+    <td>Sorry</td>
+  </tr>
+  <tr>
     <td>Auf Wiedersehen.</td>
     <td>Goodbye</td>
   </tr>
@@ -89,6 +101,22 @@ tr:nth-child(even) {
 </html>
 
 
+ <h2> Basic phrases.  </h2> 
+  <p> Here, below you can find some simple sentences you can contruct with the use of the vocabularay/sentence structure provided. First, the  german sentence is given followed by the english translation. </p>
+  
+  <p>Wie geht es dir?- How are you?</p>
+<ol>
+  <li>Mir geht's (nicht) gut, danke.- I am (not) good, thanks.</li>
+ <li>Ich fühle mich besser. - I feel better.</li>
+  </ol>
+  
+ <p>Wie heisst du?/Was ist deine Name? - What is your name?</p>
+<ol>
+  <li>Ich heisse...(name)- My name is...(name).</li>
+ <li> Meiner name ist...(name). - My name is...(name).</li>
+  </ol>
+  
+  
 <h2>Activities</h2>
 
 <h3>Give the activity below a go. You can do this! </h3>
