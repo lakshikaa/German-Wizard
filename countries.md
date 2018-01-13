@@ -7,6 +7,9 @@
   
 <h2>Welcome to countries. You can become a german wizard at countries.</h2>
 
+
+  <img src="wizard-1454385_640.png" style="width:15%;" />
+  
 <h4> Here you will be able to learn some vocabulary and sentences in relation to countries.</h4>
 <p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
