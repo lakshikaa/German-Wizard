@@ -87,14 +87,14 @@ tr:nth-child(even) {
 </body>
 </html>
 
-<h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
-<p>
+<h2> Map with hotspots</h2>
+<p> Below, find a map of Europe with brief descriptions of the capital cities of some countries. There will be the german descriptions followed by its english translations. Click on each of the hotspots to find out interesting information.</p>
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1eYQ0kLyu2x4y7kPsa1Dy38YlTZlnVG38" width="640" height="480"></iframe>
 
-<h2> Vocabulary</h2>
-<p> Below, find the table with useful vocabulary centered around the topic, countries. It will be in german followed by the english translation. </p>
-<p>
+<h2>Memory Game Activity</h2>
+<p> Below, find a memory game where you have to match the countries' flags/names in english with german word for it. Good luck!</p>
+  
 <iframe src="https://h5p.org/h5p/embed/167465" width="1090" height="1004" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
