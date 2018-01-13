@@ -86,18 +86,24 @@ tr:nth-child(even) {
 
 
  <h2> Basic phrases.</h2> 
-  <p> Here, below you can find some simple sentences you can contruct with the use of numbers. First, the  german sentence is given followed by the english translation. </p>
+  <p> Here, below you can find some simple sentences you can contruct with the use of given vocabulary. First, the  german sentence is given followed by the english translation. </p>
   
-  <p>Wie alt bist du?- How old are you?</p>
+  <p>Wie viele Mitglieder sind in deiner Familie ?- How many members are there in your family?</p>
 <ol>
-  <li>Ich bin ... Jahre alt.</li>
- <li>Ich bin dreizehn Jahre alt. - I am thirteen years old.</li>
+  <li>Es gibt ...(fünf) Familienmitglieder.- There are...(five) family members.</li>
+ <li>Ich habe beide meine eltern und drei Brüder. - I have both my parents and three brothers.</li>
   </ol>
   
- <p>Wieviel Uhr ist es?- What time is it?</p>
+ <p>Hast du eine gute Beziehung mit deiner Familie?- Have you got a good relationship with your family?</p>
 <ol>
-  <li>Es ist .... Uhr.- It is .... o'clock.</li>
- <li>Es ist rund 3 Uhr. - It is around 3 o'clock.</li>
+  <li>Ja, wir haben eine  gute Beziehung.- Yes, we have a good relationship.</li>
+ <li>Nein, wir hassen einander. - No, we hate each other</li>
+  </ol>
+  
+  <p>Hast du Geschwister?- Have you got any siblings?</p>
+<ol>
+  <li>Ja, ich habe ein bruder und ein Schwester.- Yes, I have a brother and a sister.</li>
+ <li>Nein, leider nicht. - No, unfortunately not</li>
   </ol>
   
 <h2> Flashcard Activity</h2>
