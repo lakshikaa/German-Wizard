@@ -90,6 +90,17 @@ tr:nth-child(even) {
 <iframe src="https://h5p.org/h5p/embed/168369" width="1090" height="830" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
+<hr>
+<h3>Other useful links.</h3>
+<p>If you want to learn more about countries in german then have a look at the following links.
+  
+  <a href="https://www.youtube.com/watch?v=dVb_VwVYehs">Video on hobbies.</a></p>
+  
+<a href="https://study.com/academy/lesson/german-hobbies-vocabulary.html">Website on hobbies.</a></p>
+
+<h2> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h2>
+
+
 
 
 
