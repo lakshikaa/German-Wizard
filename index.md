@@ -97,7 +97,7 @@ tr:nth-child(even) {
 
 
  <h2> Basic phrases.  </h2> 
-  <p> Here, below you can find some simple sentences you can contruct with the use of the vocabularay/sentence structure provided. First, the  german sentence is given followed by the english translation. </p>
+  <p> Here, below you can find some simple sentences you can contruct with the use of the vocabulary/sentence structure provided. First, the  german sentence is given followed by the english translation. </p>
   
   <p>Wie geht es dir?- How are you?</p>
 <ol>
