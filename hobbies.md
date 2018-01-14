@@ -101,7 +101,7 @@ tr:nth-child(even) {
 <iframe src="https://h5p.org/h5p/embed/168098" width="1090" height="1004" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-<h2> VFlashcard Activity</h2>
+<h2>Flashcard Activity</h2>
 <p> Below, find the flashcard activity where you have to type in the german word that matches the picture and english translation.</p>
 <p>
     
