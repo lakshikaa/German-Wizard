@@ -11,6 +11,8 @@
 <p> Scroll down to see an watch the video with useful vocabulary and sentences. There will be useful tips and notes along the page. You will also find different activities. Give it a go- you can become a german wizard.</p>
 <p>
   
+  <iframe width="800" height="450" src="https://www.powtoon.com/embed/g74pK03p4av/" frameborder="0"></iframe>
+  
 <h2> Vocabulary</h2>
 <p> Below, find the table with useful vocabulary centered around the topic, weather. It will be in german followed by the english translation. </p>
 <p>
