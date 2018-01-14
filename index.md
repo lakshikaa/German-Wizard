@@ -177,11 +177,10 @@ tr:nth-child(even) {
 </p>
 
  <a href="http://www.bbc.co.uk/languages/german/talk/">Useful site to learn a variety of vocabulary and grammar.</a>
- </p>
+ 
 
 
 <h4> Hope you had fun. You are one step closer to becoming a german wizard and becoming awesome at german.</h4>
-
 <p>
                                       
 <a style="float:right;" href="family.html"> Continue to Family</a>
